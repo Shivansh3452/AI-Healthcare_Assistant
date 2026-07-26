@@ -72,5 +72,5 @@ This project rebuilds the assistant using **Hugging Face Transformers** for mode
 ## Author
 
 **Shivansh Kumar**
-Roll No. 2301921520178
-G L Bajaj Institute of Technology and Management
+**Roll No. 2301921520178**
+**G L Bajaj Institute of Technology and Management**
