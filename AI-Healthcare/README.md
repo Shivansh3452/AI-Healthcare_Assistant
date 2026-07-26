@@ -69,8 +69,6 @@ This project rebuilds the assistant using **Hugging Face Transformers** for mode
 5. Take screenshots of key outputs for the deliverables folder
 6. Download the notebook via **File → Download → .ipynb** for submission
 
-## Author
-
-**Shivansh Kumar**
-**Roll No. 2301921520178**
-**G L Bajaj Institute of Technology and Management**
+**Submitted By:** Shivansh Kumar<br>
+**Roll No.:** 2301921520178<br>
+**Institute:** G L Bajaj Institute of Technology and Management
